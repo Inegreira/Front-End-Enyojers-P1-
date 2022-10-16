@@ -1,0 +1,25 @@
+<app-cancion
+[songInput]="selectedSong">
+</app-cancion>
+
+COMPONENTE LISTADO ZONA NAVEGABLE
+<h3>Lista de reproducción</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>Track</th>
+      <th></th>
+      <th>Title</th>
+      <th>Time</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let song of songs" (click)="onSelect(song)" [class.selected]="song===selectedSong">
+      <td>{{song.track}}</td>
+      <td ><img src={{song.thumbnails}} class="thumb"></td>
+      <td>{{song.title}}</td>
+      <td>{{song.time}}</td>
+    </tr>
+  </tbody>
+</table>

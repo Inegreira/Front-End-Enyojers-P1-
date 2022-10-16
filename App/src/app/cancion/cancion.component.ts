@@ -1,3 +1,4 @@
+
 import { Component, Input, OnInit } from '@angular/core';
 
 @Component({
@@ -7,7 +8,7 @@ import { Component, Input, OnInit } from '@angular/core';
 })
 export class CancionComponent implements OnInit {
 
- @Input('songInput') song_;
+  @Input('songInput') song_;
 
 
   constructor() { }
