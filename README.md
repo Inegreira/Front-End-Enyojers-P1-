@@ -4,7 +4,7 @@
 
 ``This git is a clon, so it doesnt get any changes``
 #### ``cd App`` and ``npm install``
-run ``npm start``
+#### run ``npm start``
 open browser on http://localhost:4200/ (If u are in Codesandbox just click the link)
 
 ## Build
