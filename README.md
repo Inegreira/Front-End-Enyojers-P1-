@@ -16,7 +16,7 @@ Authors
 ## Jose Luis Gallo Pareja.
 ## Izan Negreira Mateo.
 # Gregorio Visiedo Reche.
-Leonardo Antonio Cueva.
+#### Leonardo Antonio Cueva.
 Oriol Llorens Alemany.
 
 License
