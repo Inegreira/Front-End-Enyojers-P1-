@@ -11,9 +11,9 @@ open browser on http://localhost:4200/ (If u are in Codesandbox just click the l
 Run ``ng build`` to build the project. The build artifacts will be stored in the ``dist/`` directory. Use the ``--prod`` flag for a production build.
 
 ## Authors
-#### Jose Luis Gallo Pareja.
-#### Izan Negreira Mateo.
 #### Gregorio Visiedo Reche.
+#### Izan Negreira Mateo.
+#### Jose Luis Gallo Pareja.
 #### Oriol Llorens Alemany.
 
 ## Link product
