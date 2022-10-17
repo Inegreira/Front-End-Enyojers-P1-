@@ -22,9 +22,6 @@ Run ``ng build`` to build the project. The build artifacts will be stored in the
 ### Leonardo Antonio Cueva.
 ### Oriol Llorens Alemany.
 
-##
-
-
 ## Link product
 #### Producto 1. Listado y detalle de todas tus canciones.
 #### Link to aplication v.1
