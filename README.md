@@ -1,7 +1,5 @@
 # Front-End-Enyojers
 
-Enyojers is a music player app. It allows the user to play, see information about the track, have control over the playback. Also, user can play previous or next track. Besides that, it shows the elapsed and remaining playing time.
-
 ## Running the prototype 
 
 ``This git is a clon, so it doesnt get any changes``
