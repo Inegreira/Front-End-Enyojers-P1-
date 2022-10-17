@@ -13,8 +13,8 @@ Build
 Run ng build to build the project. The build artifacts will be stored in the dist/ directory. Use the --prod flag for a production build.
 
 Authors
-Jose Luis Gallo Pareja.
-Izan Negreira Mateo.
+## Jose Luis Gallo Pareja.
+## Izan Negreira Mateo.
 Gregorio Visiedo Reche.
 Leonardo Antonio Cueva.
 Oriol Llorens Alemany.
