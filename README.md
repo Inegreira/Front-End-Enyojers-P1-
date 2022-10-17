@@ -4,16 +4,16 @@ Enyojers is a music player app. It allows the user to play, see information abou
 
 ## Running the prototype 
 
-"This git is a clon, so it doesnt get any changes"
-#### ``cd App`` and npm install
-run npm start
-open browser on http://localhost:4200/
+``This git is a clon, so it doesnt get any changes``
+#### ``cd App`` and ``npm install``
+run ``npm start``
+open browser on ``http://localhost:4200/``
 
 ## Code scaffolding
-Run ng generate component component-name to generate a new component. You can also use ng generate directive|pipe|service|class|guard|interface|enum|module.
+Run ``ng generate component component-name`` to generate a new component. You can also use ``ng generate directive|pipe|service|class|guard|interface|enum|module``.
 
 ## Build
-Run ng build to build the project. The build artifacts will be stored in the dist/ directory. Use the --prod flag for a production build.
+Run ``ng build`` to build the project. The build artifacts will be stored in the dist/ directory. Use the --prod flag for a production build.
 
 ## Authors
 ### Jose Luis Gallo Pareja.
