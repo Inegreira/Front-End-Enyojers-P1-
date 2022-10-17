@@ -24,8 +24,8 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 
 Link product
 Producto 1. Listado y detalle de todas tus canciones.
-Link to aplitacion v.1
-Doc
+Link to aplication v.1
+Doc 
 
 Further help
 To get more help on the Angular CLI use ng help or go check out the Angular CLI README.
