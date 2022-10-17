@@ -14,7 +14,6 @@ Run ``ng build`` to build the project. The build artifacts will be stored in the
 #### Jose Luis Gallo Pareja.
 #### Izan Negreira Mateo.
 #### Gregorio Visiedo Reche.
-#### Leonardo Antonio Cueva.
 #### Oriol Llorens Alemany.
 
 ## Link product
