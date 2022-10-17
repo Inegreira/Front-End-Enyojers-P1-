@@ -5,7 +5,7 @@ Enyojers is a music player app. It allows the user to play, see information abou
 ## Running the prototype 
 
 "This git is a clon, so it doesnt get any changes"
-#### cd App and npm install
+#### <mark>cd App</mark> and npm install
 run npm start
 open browser on http://localhost:4200/
 
