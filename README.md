@@ -13,7 +13,7 @@ open browser on ``http://localhost:4200/``
 Run ``ng generate component component-name`` to generate a new component. You can also use ``ng generate directive|pipe|service|class|guard|interface|enum|module``.
 
 ## Build
-Run ``ng build`` to build the project. The build artifacts will be stored in the dist/ directory. Use the --prod flag for a production build.
+Run ``ng build`` to build the project. The build artifacts will be stored in the ``dist/`` directory. Use the ``--prod`` flag for a production build.
 
 ## Authors
 ### Jose Luis Gallo Pareja.
@@ -24,13 +24,8 @@ Run ``ng build`` to build the project. The build artifacts will be stored in the
 
 ##
 
-License
-This project is licensed under the MIT License - see the LICENSE.md file for details
 
 #### Link product
 #### Producto 1. Listado y detalle de todas tus canciones.
 #### Link to aplication v.1
 #### Doc 
-
-Further help
-To get more help on the Angular CLI use ng help or go check out the Angular CLI README.
