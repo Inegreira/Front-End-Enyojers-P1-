@@ -5,7 +5,7 @@ Enyojers is a music player app. It allows the user to play, see information abou
 ## Running the prototype 
 
 "This git is a clon, so it doesnt get any changues"
-cd and npm install
+#### cd App and npm install
 run npm start
 open browser on http://localhost:4200/
 
@@ -25,10 +25,10 @@ Run ng build to build the project. The build artifacts will be stored in the dis
 License
 This project is licensed under the MIT License - see the LICENSE.md file for details
 
-Link product
-Producto 1. Listado y detalle de todas tus canciones.
-Link to aplication v.1
-Doc 
+#### Link product
+#### Producto 1. Listado y detalle de todas tus canciones.
+#### Link to aplication v.1
+#### Doc 
 
 Further help
 To get more help on the Angular CLI use ng help or go check out the Angular CLI README.
