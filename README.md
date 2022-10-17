@@ -4,8 +4,8 @@
 
 ``This git is a clon, so it doesnt get any changes``
 #### ``cd App`` and ``npm install``
-#### run ``npm start``
-open browser on http://localhost:4200/ (If u are in Codesandbox just click the link)
+#### Run ``npm start``
+Open browser on http://localhost:4200/ (If u are in Codesandbox just click the link)
 
 ## Build
 Run ``ng build`` to build the project. The build artifacts will be stored in the ``dist/`` directory. Use the ``--prod`` flag for a production build.
